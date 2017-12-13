@@ -1,0 +1,5 @@
+[
+	{ "keys": ["ctrl+0"], "command": "reset_font_size" },
+    // { "keys": ["ctrl+]"], "command": "next_view" },
+    // { "keys": ["ctrl+["], "command": "prev_view" } 
+]

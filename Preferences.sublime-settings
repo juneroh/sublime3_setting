@@ -1,0 +1,13 @@
+{
+	"auto_match_enabled": false,
+	"color_scheme": "Packages/Colorsublime - Themes/zacks.tmTheme",
+	"font_size": 9,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Boxy Monokai.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"word_wrap": "auto",
+	"wrap_width": 0
+}

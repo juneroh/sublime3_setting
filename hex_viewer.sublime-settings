@@ -1,0 +1,10 @@
+{
+    // Use lowercase hex values.
+    "use_lowercase_hex": false,
+
+    // Auto open binary files in hex viewer
+    // Detects if view has encoding set to 'Hexidecimal'.
+    // Additionally it can use 'auto_open_patterns' below.
+    "auto_open" : true,
+
+}
