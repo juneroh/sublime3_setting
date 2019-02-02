@@ -1,4 +1,18 @@
 {
+
+	// An HTTP proxy server to use for requests. Not normally used on Windows
+	// since the system proxy configuration is utilized via WinINet. However,
+	// if WinINet is not working properly, this will be used by the Urllib
+	// downloader, which acts as a fallback.
+	"http_proxy": "",
+	// An HTTPS proxy server to use for requests - this will inherit from
+	// http_proxy if it is set to "" or null and http_proxy has a value. You
+	// can set this to false to prevent inheriting from http_proxy. Not
+	// normally used on Windows since the system proxy configuration is
+	// utilized via WinINet. However, if WinINet is not working properly, this
+	// will be used by the Urllib downloader, which acts as a fallback.
+	"https_proxy": "",
+
 	"bootstrapped": true,
 	"http_proxy": "http://webproxy.ext.ti.com:80",
 	"https_proxy": "http://webproxy.ext.ti.com:80",
@@ -15,6 +29,7 @@
 		"MarkdownEditing",
 		"MarkdownPreview",
 		"Package Control",
-		"Theme - Afterglow"
+		"Theme - Afterglow",
+		"TrailingSpaces"
 	]
 }

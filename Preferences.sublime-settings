@@ -1,7 +1,11 @@
 {
 	"auto_match_enabled": false,
 	"color_scheme": "Packages/Colorsublime - Themes/zacks.tmTheme",
+<<<<<<< HEAD
 	"font_size": 11,
+=======
+	"font_size": 13,
+>>>>>>> fb353ed89d0fa0dd3258e12cf78f6d820b9fda44
 	"ignored_packages":
 	[
 		"Markdown",
