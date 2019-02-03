@@ -14,8 +14,8 @@
 	"https_proxy": "",
 
 	"bootstrapped": true,
-	"http_proxy": "http://webproxy.ext.ti.com:80",
-	"https_proxy": "http://webproxy.ext.ti.com:80",
+	// "http_proxy": "http://webproxy.ext.ti.com:80",
+	// "https_proxy": "http://webproxy.ext.ti.com:80",
 	"in_process_packages":
 	[
 	],
