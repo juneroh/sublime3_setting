@@ -1,3 +1,16 @@
 {
-	"color_scheme": "Packages/Colorsublime - Themes/zacks.tmTheme"
+	"color_scheme": "Packages/Colorsublime - Themes/zacks.tmTheme",
+	"extensions":
+	[
+		"md",
+		"mdown"
+	],
+    "auto_match_enabled": true,    
+
+    // Layout
+    "draw_centered": false,
+    "word_wrap": true,
+    "wrap_width": 80,
+    "rulers": [],
+
 }
